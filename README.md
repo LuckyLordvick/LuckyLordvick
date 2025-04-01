@@ -12,7 +12,6 @@
 
 - <b>The Bible Trivia App</b>
 - <b> Community Health Worker App</b>
-- <b>Backend Web App (MongoDB, ExpressJS, React, NodeJS, Azure, and Machine Learning Components)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
