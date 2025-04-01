@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lucky Lordvick! <br/><a href="https://github.com/LuckyLordvick">Programmer</a>, <a href="https://www.linkedin.com/in//luckylordvick/">Backend Web Developer</a>, <a href="https://www.youtube.com/c/luckylordvick">YouTuber</a></h1>
+<h1>Hi, I'm Lucky Lordvick! <br/><a href="https://github.com/LuckyLordvick">Programmer</a> and <a href="https://www.linkedin.com/in//luckylordvick/">Backend Web Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
