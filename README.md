@@ -23,7 +23,7 @@
 [twitter]: https://twitter.com/LuckyLordvick
 [instagram]: https://www.instagram.com/LuckyLordvick/
 [linkedin]: https://linkedin.com/in/Lucky-Lordvick
-[facebook]: https://www.facebook.com/UncleLuddoh
+[Facebook]: https://www.facebook.com/UncleLuddoh
 
 <!--
 **LuckyLordvick/LuckyLordvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
