@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucky Lordvick</h1>
 <p align="center">
-  <img src="https://drive.google.com/file/d/18R_bx3fISU-8GfI41J8evRwgN07c5d9g/view?usp=sharing" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Profile Picture"/>
+  <img src="LuckyLordvick(https://github.com/LuckyLordvick.png)](https://github.com/LuckyLordvick)" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Profile Picture"/>
 </p>
 
 <h2>👩‍💻 About Me</h2>
