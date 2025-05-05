@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Lucky Lordvick</h1>
 <p align="center">
-  <img src="[Your-Profile-Image-URL]" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Profile Picture"/>
+  <img src="https://drive.google.com/file/d/18R_bx3fISU-8GfI41J8evRwgN07c5d9g/view?usp=sharing" width="150" style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Profile Picture"/>
 </p>
 
 <h2>👩‍💻 About Me</h2>
 <ul>
   <li>🎓 ALX <b>Back-end Web Development</b> learner passionate about software engineering and technology.</li>
-  <li>🌱 I started with software engineering because of my love for making applications and software using code.</li>
+  <li>🌱 I chose software engineering because of my love for programming... Creating lines of code then seeing them coming to life on the screen as apps and softwares.</li>
   <li>💡 I am inspired by Creativity and Innovation, Human-Centred Designing, & Societal Impact as a Legacy.</li>
-  <li>🚀 My aim is to learn and grow as a Software Developer. To use my skills to positively create impactful web applications.</li>
+  <li>🚀 My aim is to learn and grow as a Software Developer, and to use my skills to positively create impactful web applications.</li>
   <li>🔭 I would like to work on projects that would require my skills in back-end web development.</li>
 </ul>
 
@@ -54,5 +54,5 @@
 <hr>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>*“Code is like humor. When you have to explain it, it’s bad.”* – *Cory House*</i>
 </p>
