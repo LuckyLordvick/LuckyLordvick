@@ -10,8 +10,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b> Personal Website</b>
 - <b>The Bible Trivia App</b>
-- <b> Community Health Worker App</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
