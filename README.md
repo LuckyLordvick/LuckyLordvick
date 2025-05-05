@@ -4,9 +4,9 @@
 - 🌱 I’m currently enrolled in ALX studying Backend Web Development on a scholarship by the Mastercard Foundation.
 - 👯 I’m looking to collaborate on MERN Stack programming, Front End Web dev, LLM, AI, ML, and Big Data.
 - 💬 Ask me about Christ. LoL. Any day... Anytime.
-- 📫 How to reach me: Click on the social platform icons at the bottom to reach out
+- 📫 How to reach me: Click on the social platform icons on the left side of the screen just under my profile picture.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have wanted to learn programming for 10 years now. I just couldn't be able to start due to university, work and I was in the arts industry working as a model/actor/voice actor. This year I am finally doing it and I am really excited to start my journey in tech and build real apps and software with my code.</b>
+- ⚡ Fun fact: I have wanted to learn programming for about 10 years now. I just couldn't be able to start due to university, work and, I was in the arts industry working as a model/actor/voice actor. This year I am finally doing it and I am really excited to start my journey in tech and build real apps and software with my code.</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
